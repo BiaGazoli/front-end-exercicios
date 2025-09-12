@@ -9,3 +9,4 @@ if (numero<10) {
 }
 
 prompt('Digite um número com três casa decimais')
+
