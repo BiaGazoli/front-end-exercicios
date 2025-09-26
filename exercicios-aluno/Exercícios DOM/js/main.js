@@ -6,3 +6,4 @@ console.log (ancora);
 
 let vidasSecas = document.querySelector('#vidas-secas');
 console.log (vidasSecas);
+
