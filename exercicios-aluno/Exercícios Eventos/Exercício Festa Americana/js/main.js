@@ -6,7 +6,7 @@ const contador = document.getElementById('contador');
 
 
 function adicionarItem(inputItem) {
-return inputItem + ' ainda não temos uma inteligência artifical geral';
+
 }
 
 
